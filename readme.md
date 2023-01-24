@@ -26,8 +26,8 @@ python3 server.py -p 4545 -f usedpws.txt -v
 ``` bash 
 python3 elderflower.py -u [url] -t [username] -s [server] -p [port] -v (verbose mode) 
 ```
-[url] = url of the target
-[username] = username to bruteforce
+[url] = url of the target\
+[username] = username to bruteforce\
 [server] = ip of the server\
 Exapmle:
 ``` bash 
