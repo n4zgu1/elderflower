@@ -32,7 +32,7 @@ Exapmle:
 ``` bash 
 python3 elderflower.py -u http://example.com -t JohnDoe -s https://server.com -P 4545 -v
 ```
-<br>
+
 #### Addapt the code
 
 ##### [bin](bin.py)
@@ -46,13 +46,13 @@ The trigger for the successfull login is defined in line 18.
 ```python
 18  trigger = 'example'                 # trigger for successfull login
 ```
-<br>
+
 
 The payload for the post request is defined in line 24.
 ```python 
 24  payload = {'do':'login', 'user':f'{username}', 'pw':f'{password}'}      # payload for request
 ```
-<br>
+
 Passwords are being generated in line 45.
 In my case the paswords are 6 characters long. The first character is a random uppercase letter, the next 3 characters are random lowercase letters and the last 2 characters are random digits.
 
