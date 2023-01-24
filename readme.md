@@ -1,8 +1,8 @@
 # Elderflower v1.0.3
 ## HTTP(S) bruteforcing tool
 
-<p>Elderflower is a http bruteforcing tool. It can be used to bruteforce basic http authentication.Have fun with it and you all know, for educational purpose only ;)
-<br>Good luck!</p>
+Elderflower is a http bruteforcing tool. It can be used to bruteforce basic http authentication.Have fun with it and you all know, for educational purpose only ;)
+//Good luck!
 ### How to install
 Upload the script to your server, adapt the code and run it with python3.
 
