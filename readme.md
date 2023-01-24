@@ -17,7 +17,7 @@ Upload the script to your server, adapt the code and run it with python3.
 python3 server.py -p [port] -f [file] -v (verbose mode)
 ```
 <p>[file] = file with used passwords</p>
-Exapmle:
+<p>Exapmle:</p>
 ``` bash
 python3 server.py -p 4545 -f usedpws.txt -v
 ```
@@ -29,7 +29,7 @@ python3 elderflower.py -u [url] -t [username] -s [server] -p [port] -v (verbose 
 <p>[url] = url of the target</p>
 <p>[username] = username to bruteforce</p>
 <p>[server] = ip of the server</p>
-Exapmle:
+<p>Exapmle:</p>
 ``` bash 
 python3 elderflower.py -u http://example.com -t JohnDoe -s https://server.com -P 4545 -v
 ```
