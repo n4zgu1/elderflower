@@ -18,7 +18,7 @@ python3 server.py -p [port] -f [file] -v (verbose mode)
 ```
 <p>[file] = file with used passwords</p>
 <p>Exapmle:</p>
-``` bash
+```bash
 python3 server.py -p 4545 -f usedpws.txt -v
 ```
 <br>
